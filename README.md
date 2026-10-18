@@ -1,4 +1,3 @@
-# TECH_NOTEBOOK_APP_SQLITE
+# Tech Notebook App — EXE Build
 
-# This is the .exe version of the Notebook App.
-
+# This repository contains the Windows executable-buildable version of the Tech Notebook App.
